@@ -1,0 +1,2 @@
+# ignore everything in tensorboard_logs
+tensorboard_logs/*
