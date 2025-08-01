@@ -1,0 +1,9 @@
+{
+  "learning_rate": 5.6115164153345e-05,
+  "gamma": 0.9941207163345817,
+  "net_arch": [
+    64,
+    64
+  ],
+  "learning_starts": 1000
+}
